@@ -1,2 +1,3 @@
 # emoji
-Go library to convert emoji to aliases
+
+A Go library to convert emoji to aliases.
